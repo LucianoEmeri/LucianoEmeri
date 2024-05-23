@@ -1,9 +1,6 @@
 <div align="center">
-<h1 align="center">
 
 # $🔻{¡Hi!\ I'm\ {\color{red}Luciano\ Emerí}}\ 🔻$
-
-</h1>
 
 <img src="https://i1.sndcdn.com/visuals-000197783434-2xJppG-t2480x520.jpg">
 </div>
@@ -24,6 +21,6 @@ I am a detail-oriented person with a knack for autonomous learning. From an earl
 <div align="center">
 <p align="center">
 <a href="https://github.com/LucianoEmeri">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoEmeri&show_icons=true&theme=shadow_red&text_color=fff&bg_color=000"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoEmeri&theme=shadow_red&show_icons=true&text_color=fff&bg_color=000"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucianoEmeri&show_icons=true&theme=shadow_red&text_color=fff&bg_color=000"/><img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucianoEmeri&theme=shadow_red&show_icons=true&text_color=fff&bg_color=000"/>
 </a>
 </p>
