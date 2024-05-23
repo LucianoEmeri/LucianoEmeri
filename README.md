@@ -7,11 +7,11 @@
 <br>
 <h2 align="center"> ❓ &nbsp;About me:</h2>
 
-<p align="center">
+<h4 align="center">
 After working for 5 years in a furniture factory, specifically in the stock area utilizing Odoo, I decided to take a leap of faith and pursue a career in web design, leaving my job to fully dedicate my time to programming. My passion for computer science began when I was 10 years old. Upon finishing high school, I studied computer repair. Additionally, I have been producing electronic music since I was 17, and at the same time, I founded a sound and lighting company for social events, which has kept me constantly engaged with technology.
 </p>
 <br>
-<p align="center">
+<h4 align="center">
 I am a detail-oriented person with a knack for autonomous learning. From an early age, I taught myself how to use music editing software, as well as photo and video editing tools. Now, at 25, I am determined to give my all to improve my skills as a developer and make a living doing what I love.
 </p>
 <br>
