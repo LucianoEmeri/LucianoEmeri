@@ -23,6 +23,6 @@ I am a detail-oriented person with a knack for autonomous learning. From an earl
 <a href="https://github.com/LucianoEmeri">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucianoEmeri&show_icons=true&theme=shadow_red&text_color=fff&bg_color=000"/>
 
-<img height="160em" max-width="150em" src="https://github-readme-stats.vercel.app/api/pin?username=LucianoEmeri&repo=LucianoEmeri&show_icons=true&theme=shadow_red&text_color=fff&bg_color=000"/>
+<img height="160em" max-width="140em" src="https://github-readme-stats.vercel.app/api/pin?username=LucianoEmeri&repo=LucianoEmeri&show_icons=true&theme=shadow_red&text_color=fff&bg_color=000"/>
 </a>
 </p>
