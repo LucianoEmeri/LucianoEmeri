@@ -15,7 +15,10 @@ After working for 5 years in a furniture factory, specifically in the stock area
 I am a detail-oriented person with a knack for autonomous learning. From an early age, I taught myself how to use music editing software, as well as photo and video editing tools. Now, at 25, I am determined to give my all to improve my skills as a developer and make a living doing what I love.
 </p>
 <br>
-
+Starting in March 2024, I enrolled in a programming bootcamp where I learned to use the most current tools in the market, such as HTML, CSS, and JavaScript, and I specialized in frontend with technologies like React, Redux, and Next.js. Additionally, I worked with modern tools like Tailwind CSS for design, TypeScript for safer typing, Express for handling the backend, and Vercel for deploying applications. Today, I am exploring job opportunities as a developer to showcase the skills I have acquired.
+</p>
+<br>
+  
 <h2 align="center"> ❗ &nbsp;Analytics:</h2>
 
 <div align="center">
