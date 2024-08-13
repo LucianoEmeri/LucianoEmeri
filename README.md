@@ -8,14 +8,14 @@
 <h2 align="center"> ❓ &nbsp;About me:</h2>
 
 <h4 align="center">
-After working for 5 years in a furniture factory, specifically in the stock area utilizing Odoo, I decided to take a leap of faith and pursue a career in web design, leaving my job to fully dedicate my time to programming. My passion for computer science began when I was 10 years old. Upon finishing high school, I studied computer repair. Additionally, I have been producing electronic music since I was 17, and at the same time, I founded a sound and lighting company for social events, which has kept me constantly engaged with technology.
+I'm from Argentina. I worked for 5 years in a furniture factory, specifically in the stock area using Odoo. I decided to take a leap of faith and pursue a career in web design, leaving my job to fully dedicate myself to programming. My passion for computers began when I was 10 years old. After finishing high school, I studied computer repair. Additionally, I've been producing electronic music since I was 17, and at the same time, I founded a sound and lighting company for social events, which has kept me constantly connected to technology.
 </p>
 <br>
 <h4 align="center">
-I am a detail-oriented person with a knack for autonomous learning. From an early age, I taught myself how to use music editing software, as well as photo and video editing tools. Now, at 25, I am determined to give my all to improve my skills as a developer and make a living doing what I love.
+I'm a detail-oriented person with the ability to learn autonomously, and I can work well both in a team and under pressure. From a young age, I learned to use music editing software, as well as photo and video editing tools. Now, at 25, I'm determined to give my all to improve my skills as a developer and make a living doing what I love.
 </p>
 <br>
-Starting in March 2024, I enrolled in a programming bootcamp where I learned to use the most current tools in the market, such as HTML, CSS, and JavaScript, and I specialized in frontend with technologies like React, Redux, and Next.js. Additionally, I worked with modern tools like Tailwind CSS for design, TypeScript for safer typing, Express for handling the backend, and Vercel for deploying applications. Today, I am exploring job opportunities as a developer to showcase the skills I have acquired.
+Starting in March 2024, I enrolled in a programming bootcamp where I learned to use the most current tools in the market, such as HTML, CSS, and JavaScript, and specialized in frontend technologies like React, Redux, and Next.js. Additionally, I worked with modern tools like Tailwind CSS for design, TypeScript for safer typing, Express for handling the backend, and Vercel for deploying applications. Today, I'm venturing into the job market as a programmer to demonstrate the skills I've acquired.
 </p>
 <br>
   
