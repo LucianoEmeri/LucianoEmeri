@@ -3,7 +3,17 @@
 # $🔻{¡Hi!\ I'm\ {\color{red}Luciano\ Emerí}}\ 🔻$
 
 <img src="https://i1.sndcdn.com/visuals-000197783434-2xJppG-t2480x520.jpg">
-</div>
+
+<h2>🚩 Skills: </h2>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> 
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> 
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> 
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> 
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> 
+
 <br>
 <h2 align="center"> ❓ &nbsp;About me:</h2>
 
@@ -27,3 +37,4 @@ Starting in March 2024, I enrolled in a programming bootcamp where I learned to 
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LucianoEmeri&show_icons=true&theme=shadow_red&text_color=fff&bg_color=000"/><img height="140em" src="https://github-readme-stats.vercel.app/api/pin?username=LucianoEmeri&repo=LucianoEmeri&show_icons=true&theme=shadow_red&text_color=fff&bg_color=000"/>
 </a>
 </p>
+</div>
