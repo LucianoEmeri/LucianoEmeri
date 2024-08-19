@@ -14,6 +14,7 @@
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> 
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> 
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> 
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> 
 
 <br>
 <h2 align="center"> ❓ &nbsp;About me:</h2>
@@ -25,7 +26,7 @@ I'm from Argentina. I worked for 5 years in a furniture factory, specifically in
 I'm a detail-oriented person with the ability to learn autonomously, and I can work well both in a team and under pressure. From a young age, I learned to use music editing software, as well as photo and video editing tools. Now, at 25, I'm determined to give my all to improve my skills as a developer and make a living doing what I love.
 </p>
 <br>
-Starting in March 2024, I enrolled in a programming bootcamp where I learned to use the most current tools in the market, such as HTML, CSS, and JavaScript, and specialized in frontend technologies like React, Redux, and Next.js. Additionally, I worked with modern tools like Tailwind CSS for design, TypeScript for safer typing, Express for handling the backend, and Vercel for deploying applications. Today, I'm venturing into the job market as a programmer to demonstrate the skills I've acquired.
+Starting in March 2024, I enrolled in a programming bootcamp where I learned to use the most current tools in the market, such as HTML, CSS, and JavaScript, and specialized in frontend technologies like React, Redux, and Next.js. Additionally, I worked with modern tools like Tailwind CSS for design, Figma for interface design, TypeScript for safer typing, Express for handling the backend, and Vercel for deploying applications. Today, I'm venturing into the job market as a programmer to demonstrate the skills I've acquired.
 </p>
 <br>
   
