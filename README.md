@@ -20,7 +20,7 @@
 <h2 align="center"> ❓ &nbsp;About me:</h2>
 
 <h4 align="center">
-I'm from Argentina. I worked for 5 years in a furniture factory, specifically in the stock area using Odoo. I decided to take a leap of faith and pursue a career in web design, leaving my job to fully dedicate myself to programming. My passion for computers began when I was 10 years old. After finishing high school, I studied computer repair. Additionally, I've been producing electronic music since I was 17, and at the same time, I founded a sound and lighting company for social events, which has kept me constantly connected to technology.
+I am from Argentina, I worked for 5 years in a furniture factory as an employee, specifically in the stock area using Odoo, and that was when I decided to take a leap of faith and pursue a career in web development. , leaving my job to dedicate myself completely to programming. My passion for computing began when I was 10 years old. After finishing high school, I studied computer repair. In addition, he has been producing electronic music since he was 17 and, at the same time, founded a sound and lighting company for social events, which has kept me constantly linked to technology.
 </p>
 <br>
 I'm a detail-oriented person with the ability to learn autonomously, and I can work well both in a team and under pressure. From a young age, I learned to use music editing software, as well as photo and video editing tools. Now, at 25, I'm determined to give my all to improve my skills as a developer and make a living doing what I love.
