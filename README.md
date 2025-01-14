@@ -10,7 +10,9 @@
   onmouseover="this.style.color='#d10000'" 
   onmouseout="this.style.color='#ff0000'">
   🌐 Visit my Portfolio
+</a>
 
+<a href="https://lucianoemeri.com.ar" target="_blank">
   <img src="https://i1.sndcdn.com/visuals-000197783434-2xJppG-t2480x520.jpg" alt="Luciano Emerí Portfolio" style="max-width: 100%; border-radius: 10px;">
 </a>
 
