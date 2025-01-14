@@ -12,7 +12,9 @@
   🌐 Visit my Portfolio
 </a>
 
-<img src="https://i1.sndcdn.com/visuals-000197783434-2xJppG-t2480x520.jpg">
+<a href="https://lucianoemeri.com.ar" target="_blank">
+  <img src="https://i1.sndcdn.com/visuals-000197783434-2xJppG-t2480x520.jpg" alt="Luciano Emerí Portfolio" style="max-width: 100%; border-radius: 10px;">
+</a>
 
 <h2>🚩 Skills: </h2>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
