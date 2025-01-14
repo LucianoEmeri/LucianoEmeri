@@ -20,13 +20,19 @@
 <h2 align="center"> ❓ &nbsp;About me:</h2>
 
 <h4 align="center">
-I am from Argentina, I worked for 5 years in a furniture factory as an employee, specifically in the stock area using Odoo, and that was when I decided to take a leap of faith and pursue a career in web development. , leaving my job to dedicate myself completely to programming. My passion for computing began when I was 10 years old. After finishing high school, I studied computer repair. In addition, he has been producing electronic music since he was 17 and, at the same time, founded a sound and lighting company for social events, which has kept me constantly linked to technology.
+📚 I am currently pursuing a University Technician Degree in Programming at the National Technological University, complementing my practical training in market-leading tools and technologies.
 </p>
 <br>
-I'm a detail-oriented person with the ability to learn autonomously, and I can work well both in a team and under pressure. From a young age, I learned to use music editing software, as well as photo and video editing tools. Now, at 25, I'm determined to give my all to improve my skills as a developer and make a living doing what I love.
+💎 In March 2024, I enrolled in a programming bootcamp, where I gained solid knowledge in HTML, CSS, and JavaScript, specializing in frontend technologies like React, Redux, and Next.js. Additionally, I worked with modern tools such as Tailwind CSS for design, Figma for interface design, TypeScript for safer typing, Cloudinary for image management & Vercel for deploying applications.
 </p>
 <br>
-Starting in March 2024, I enrolled in a programming bootcamp where I learned to use the most current tools in the market, such as HTML, CSS, and JavaScript, and specialized in frontend technologies like React, Redux, and Next.js. Additionally, I worked with modern tools like Tailwind CSS for design, Figma for interface design, TypeScript for safer typing, Express for handling the backend, and Vercel for deploying applications. Today, I'm venturing into the job market as a programmer to demonstrate the skills I've acquired.
+✨ My focus: Creating modern, intuitive, and functional interfaces, optimizing user experience through clean, efficient, and adaptable code.
+</p>
+<br>
+💼 I also have previous experience in inventory management and technological entrepreneurship, which has helped me develop key skills like teamwork, attention to detail, and project management under pressure.
+</p>
+<br>
+🚀 My goal: To enter the job market as a programmer, leveraging my technical and creative skills to contribute to the development of scalable and innovative web applications.
 </p>
 <br>
   
