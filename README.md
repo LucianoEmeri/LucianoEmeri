@@ -2,6 +2,16 @@
 
 # $🔻{¡Hi!\ I'm\ {\color{red}Luciano\ Emerí}}\ 🔻$
 
+<a href="https://lucianoemeri.com.ar" target="_blank" style="
+  font-size: 18px; 
+  font-weight: bold; 
+  color: #ff0000; 
+  text-decoration: none;" 
+  onmouseover="this.style.color='#d10000'" 
+  onmouseout="this.style.color='#ff0000'">
+  🌐 Visit my Portfolio
+</a>
+
 <img src="https://i1.sndcdn.com/visuals-000197783434-2xJppG-t2480x520.jpg">
 
 <h2>🚩 Skills: </h2>
