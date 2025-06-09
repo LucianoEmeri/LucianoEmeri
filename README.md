@@ -1,6 +1,6 @@
 <div align="center">
 
-# $🔻{¡Hi!\ I'm\ {\color{red}Luciano\ Emerí}}\ 🔻$
+<h1>🔻 ¡Hi! I'm <span style="color:red">Luciano Emerí</span> 🔻</h1>
 
 <a href="https://lucianoemeri.com.ar" target="_blank" style="
   font-size: 18px; 
